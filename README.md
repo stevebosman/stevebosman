@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning more Kotlin, Typescript and post-8 Java
+- 🌱 I’m currently learning more React, Typescript, Kotlin and post-8 Java
 
 <!--
 **stevebosman/stevebosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
