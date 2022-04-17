@@ -4,7 +4,7 @@ I'm Steve (he/him), I've been a professional developer since 1996.
 
 - 🌱 I’m currently learning more React, Typescript, Kotlin and post-8 Java
 - 🌳 My main languages are Java, Javascript, SQL (mainly 92 plus Oracle)
-- 🍂 I've previously used BBC BASIC, FORTRAN 66,77,90 and 95, Pascal, LISP, C, Ruby, and C#, and some others I can't remember right now 😀
+- 🍂 I've previously used BBC BASIC, FORTRAN 66, 77, 90 and 95, Pascal, LISP, C, Ruby, and C#, and some others I can't remember right now 😀
 - 📫 I'm Steve Bosman on [https://twitter.com/stevebosman](twitter) and [https://stackoverflow.com/users/4389/steve-bosman](stackoverflow)
 
 <!--
