@@ -5,7 +5,9 @@ I'm Steve (he/him), I've been a professional developer since 1996.
 - 🌱 I’m currently learning more React, Typescript, Kotlin and post-8 Java
 - 🌳 My main languages are Java, Javascript, SQL (mainly 92 plus Oracle)
 - 🍂 I've previously used BBC BASIC, FORTRAN 66, 77, 90 and 95, Pascal, LISP, C, Ruby, and C#, and some others I can't remember right now 😀
-- 📫 I can be found on [twitter](https://twitter.com/stevebosman) and [stackoverflow](https://stackoverflow.com/users/4389/steve-bosman)
+- 📫 @stevebosman@mastodon.online
+- 📫 [twitter](https://twitter.com/stevebosman)
+- 📫 [stackoverflow](https://stackoverflow.com/users/4389/steve-bosman)
 
 <!--
 **stevebosman/stevebosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
