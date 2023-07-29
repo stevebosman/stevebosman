@@ -5,7 +5,7 @@ I'm Steve (he/him), I've been a professional developer since 1996.
 - 🌱 I’m currently learning more Scala, React, Typescript, Kotlin and post-8 Java
 - 🌳 My main languages are Java, Javascript, SQL (mainly 92 plus Oracle)
 - 🍂 I've previously worked and played with BBC BASIC, FORTRAN 66, 77, 90 and 95, Pascal, LISP, C, Ruby, and C#, and others I can't recall right now 😀
-- 📫 [@stevebosman@mastodon.online](https://mastodon.online/@stevebosman)
+- 📫 <a rel="me" href="https://mastodon.online/@stevebosman">Mastodon</a>
 - 📫 [twitter](https://twitter.com/stevebosman)
 - 📫 [stackoverflow](https://stackoverflow.com/users/4389/steve-bosman)
 
