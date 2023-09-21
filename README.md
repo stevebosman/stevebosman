@@ -6,7 +6,7 @@ I'm Steve (he/him), I've been a professional developer since 1996.
 - 🌳 My main languages are Java, Javascript, SQL (mainly 92 plus Oracle)
 - 🍂 I've previously worked and played with BBC BASIC, FORTRAN 66, 77, 90 and 95, Pascal, LISP, C, Ruby, and C#, and others I can't recall right now 😀
 - 📫 <a rel="me" href="https://mastodon.online/@stevebosman">Mastodon</a>
-- 📫 [-twitter-X](https://twitter.com/stevebosman) - although I'm not posting for now
+- 📫 [~twitter~X](https://twitter.com/stevebosman) - although I'm not posting for now
 - 📫 [stackoverflow](https://stackoverflow.com/users/4389/steve-bosman)
 - 🎓 [exercism](https://exercism.org/profiles/stevebosman)
 
