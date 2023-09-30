@@ -12,6 +12,7 @@ I'm Steve (he/him), I've been a professional developer since 1996.
 - 🎓 [exercism](https://exercism.org/profiles/stevebosman)
 - 🎧 [last.fm](http://www.last.fm/user/evetsx/)
 - 🎧 [spotify](https://open.spotify.com/user/118248666)
+- 🎮 [steam](https://steamcommunity.com/id/stevebosman/)
 
 <!--
 **stevebosman/stevebosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
