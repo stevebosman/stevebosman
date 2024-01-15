@@ -10,7 +10,7 @@ I'm Steve (he/him), I've been a professional developer since 1996.
 - 📫 [LinkedIn](https://www.linkedin.com/in/stevebosman/)
 - 👨‍💻 [Stackoverflow](https://stackoverflow.com/users/4389/steve-bosman)
 - 🎓 [exercism](https://exercism.org/profiles/stevebosman)
-- 🎓 [![Codewars badge](https://www.codewars.com/users/stevebosman/badges/small?theme=light)](https://www.codewars.com/users/stevebosman) - I've done much yet, but this link might remind me to 😆
+- 🎓 [![Codewars badge](https://www.codewars.com/users/stevebosman/badges/small?theme=light)](https://www.codewars.com/users/stevebosman) - I've not done much yet, but this link might remind me to 😆
 - 🎧 [last.fm](http://www.last.fm/user/evetsx/)
 - 🎧 [Spotify](https://open.spotify.com/user/118248666)
 - 🎮 [Steam](https://steamcommunity.com/id/stevebosman/)
