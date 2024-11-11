@@ -10,7 +10,6 @@ I'm Steve (he/him), I've been a professional developer since 1996.
 - 👨‍💻 [Stackoverflow](https://stackoverflow.com/users/4389/steve-bosman)
 - 📫 [LinkedIn](https://www.linkedin.com/in/stevebosman/)
 - 📫 <a rel="me" href="https://mastodon.online/@stevebosman">Mastodon</a>
-- 📫 [~Twitter~X](https://twitter.com/stevebosman) - although I'm not posting for now
 - 🎧 [last.fm](http://www.last.fm/user/evetsx/)
 - 🎧 [Spotify](https://open.spotify.com/user/118248666)
 - 🎮 [Steam](https://steamcommunity.com/id/stevebosman/)
