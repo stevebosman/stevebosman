@@ -2,7 +2,7 @@
 
 I'm Steve (he/him), I've been a professional developer since 1996.
 
-- 🌱 I’m currently learning more Scala, React, Typescript, Kotlin and post-11 Java
+- 🌱 I’m currently learning more Scala, React, Typescript, Kotlin and post-17 Java
 - 🌳 My main languages are Java, Javascript, SQL (mainly 92 plus Oracle)
 - 🍂 I've previously worked and played with BBC BASIC, FORTRAN 66, 77, 90 and 95, Pascal, LISP, C, Ruby, and C#, and others I can't recall right now 😀
 - 🎓 [![Codewars badge](https://www.codewars.com/users/stevebosman/badges/small?theme=light)](https://www.codewars.com/users/stevebosman) - I've not done much yet, but this link might remind me to 😆
